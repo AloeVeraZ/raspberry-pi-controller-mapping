@@ -4,10 +4,10 @@
 
 ### Xbox and SCUF input visualization with joystick driven servo control
 
-[![Platform](https://img.shields.io/badge/platform-Raspberry_Pi-111111?style=for-the-badge&logo=raspberrypi&logoColor=white)](#hardware-and-software)
-[![Language](https://img.shields.io/badge/language-Python-3f3f46?style=for-the-badge&logo=python&logoColor=white)](#project-files)
-[![Input](https://img.shields.io/badge/input-Xbox_%2F_SCUF-6b7280?style=for-the-badge)](#controller-map)
-[![Output](https://img.shields.io/badge/output-GPIO_17_servo-111111?style=for-the-badge)](#servo-behavior)
+[![Platform](https://img.shields.io/badge/platform-Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white&labelColor=8E1334)](#hardware-and-software)
+[![Language](https://img.shields.io/badge/language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=255986)](#project-files)
+[![Input](https://img.shields.io/badge/input-Xbox_%2F_SCUF-107C10?style=for-the-badge&labelColor=0B5A0B)](#controller-map)
+[![Output](https://img.shields.io/badge/output-GPIO_17_servo-F59E0B?style=for-the-badge&labelColor=B45309)](#servo-behavior)
 
 Two Python prototypes for inspecting a game controller and mapping the left stick heading to a positional servo on a Raspberry Pi.
 
