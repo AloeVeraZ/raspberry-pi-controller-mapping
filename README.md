@@ -4,10 +4,7 @@
 
 ### Xbox and SCUF input visualization with joystick driven servo control
 
-[![Platform](https://img.shields.io/badge/platform-Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white&labelColor=8E1334)](#hardware-and-software)
-[![Language](https://img.shields.io/badge/language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=255986)](#project-files)
-[![Input](https://img.shields.io/badge/input-Xbox_%2F_SCUF-107C10?style=for-the-badge&labelColor=0B5A0B)](#controller-map)
-[![Output](https://img.shields.io/badge/output-GPIO_17_servo-F59E0B?style=for-the-badge&labelColor=B45309)](#servo-behavior)
+<img alt="Platform: Raspberry Pi" src="https://img.shields.io/badge/platform-Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white&labelColor=8E1334"> <img alt="Language: Python" src="https://img.shields.io/badge/language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=255986"> <img alt="Input: Xbox and SCUF" src="https://img.shields.io/badge/input-Xbox_%2F_SCUF-107C10?style=for-the-badge&labelColor=0B5A0B"> <img alt="Output: GPIO 17 servo" src="https://img.shields.io/badge/output-GPIO_17_servo-F59E0B?style=for-the-badge&labelColor=B45309">
 
 Two Python prototypes for inspecting a game controller and mapping the left stick heading to a positional servo on a Raspberry Pi.
 
