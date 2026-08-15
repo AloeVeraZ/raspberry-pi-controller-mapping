@@ -8,6 +8,7 @@
 
 Two Python prototypes for inspecting a game controller and mapping the left stick heading to a positional servo on a Raspberry Pi.
 
+<strong>Quick navigation:</strong><br>
 [Overview](#overview) · [Controller map](#controller-map) · [Servo behavior](#servo-behavior) · [Setup](#hardware-and-software)
 
 </div>
@@ -72,11 +73,3 @@ python3 "servo movement based on controller"
 ```
 
 The servo script currently searches for a companion file named `controller mapping.py`, while the committed visualizer is named `scuff_controller_visual`. Run the visualizer separately as shown above, or set `MAPPING_PATH` to its full path before starting the servo script.
-
----
-
-<div align="center">
-
-Controller and servo experiments by **[Angelo Demetroulakos](https://github.com/AloeVeraZ)**
-
-</div>
